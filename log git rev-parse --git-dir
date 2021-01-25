@@ -1,0 +1,2216 @@
+Looking for git in: /usr/local/bin/git
+Using git 2.28.0 from /usr/local/bin/git
+> git rev-parse --git-dir
+Open repository: /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git show --textconv :src/components/calendar/calendar.css
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/calendar.css
+> git cat-file -s 834818f005f4308f4b35eedd6cd10a6a1cd18486
+> git show --textconv :src/components/calendar/CalendarEvent.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarEvent.jsx
+> git cat-file -s a7d9e5646322de6873459969596a5150131e0c25
+> git show --textconv :src/components/calendar/CalendarScreen.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarScreen.jsx
+> git cat-file -s cdc81179931a5a7da1c128726e99778c08bf2160
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/ui/AddNewEventFab.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/ui/AddNewEventFab.jsx
+> git cat-file -s c99998b737aecd0a660f269e3a63673f6bbea375
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ui/DeleteEventFab.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/ui/DeleteEventFab.jsx
+> git cat-file -s 189d766b9486c118d842cf628994090b0a0d8360
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/ui/DeleteEventFab.jsx
+> git cat-file -s 189d766b9486c118d842cf628994090b0a0d8360
+> git show --textconv :src/components/ui/DeleteEventFab.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ui/AddNewEventFab.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/ui/AddNewEventFab.jsx
+> git cat-file -s c99998b737aecd0a660f269e3a63673f6bbea375
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git check-ignore -v -z --stdin
+> git show --textconv :src/helpers/fetch.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/fetch.js
+> git cat-file -s aedec86351f7bc43e1bbaf843adbf30183debd23
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.env
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env
+> git cat-file -s 39cc24b68d5e20a39dea2791d99b897e536e15ce
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/reducers/calendarReducer.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/ui.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/ui.action.js
+> git cat-file -s 640de9460ceee1bf618a3ebbe635501c04c64b1b
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/ui.action.js
+> git cat-file -s 640de9460ceee1bf618a3ebbe635501c04c64b1b
+> git show --textconv :src/actions/ui.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git show --textconv :src/components/calendar/CalendarScreen.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarScreen.jsx
+> git cat-file -s cdc81179931a5a7da1c128726e99778c08bf2160
+> git show --textconv :src/components/ui/AddNewEventFab.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/ui/AddNewEventFab.jsx
+> git cat-file -s c99998b737aecd0a660f269e3a63673f6bbea375
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/reducers/calendarReducer.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/reducers/calendarReducer.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/ui.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/ui.action.js
+> git cat-file -s 640de9460ceee1bf618a3ebbe635501c04c64b1b
+> git check-ignore -v -z --stdin
+> git show --textconv :src/reducers/uiReducer.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/uiReducer.js
+> git cat-file -s 2a4dcc0fe3ef96a81c7253a21a3c0d34c46d8e86
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/types/types.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/types/types.js
+> git cat-file -s 47b2933f30a3af926bbda6689fb1ef0fca60c22f
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/types/types.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/types/types.js
+> git cat-file -s 47b2933f30a3af926bbda6689fb1ef0fca60c22f
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/types/types.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/types/types.js
+> git cat-file -s 47b2933f30a3af926bbda6689fb1ef0fca60c22f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/types/types.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/types/types.js
+> git cat-file -s 47b2933f30a3af926bbda6689fb1ef0fca60c22f
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/reducers/calendarReducer.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/CalendarApp.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/CalendarApp.jsx
+> git cat-file -s 9ba173bfff57a45fe8a436dc87e0c1c682190bf7
+> git show --textconv :src/components/calendar/CalendarScreen.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarScreen.jsx
+> git cat-file -s cdc81179931a5a7da1c128726e99778c08bf2160
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarScreen.jsx
+> git cat-file -s cdc81179931a5a7da1c128726e99778c08bf2160
+> git show --textconv :src/components/calendar/CalendarScreen.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/helpers/prepareEvents.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/prepareEvents.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/prepareEvents.js
+> git show --textconv :src/helpers/prepareEvents.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/helpers/prepareEvents.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/prepareEvents.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/prepareEvents.js
+> git show --textconv :src/helpers/prepareEvents.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/types/types.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/types/types.js
+> git cat-file -s 47b2933f30a3af926bbda6689fb1ef0fca60c22f
+> git show --textconv :src/components/calendar/CalendarScreen.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarScreen.jsx
+> git cat-file -s cdc81179931a5a7da1c128726e99778c08bf2160
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarScreen.jsx
+> git cat-file -s cdc81179931a5a7da1c128726e99778c08bf2160
+> git show --textconv :src/components/calendar/CalendarScreen.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/components/calendar/CalendarScreen.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarScreen.jsx
+> git cat-file -s cdc81179931a5a7da1c128726e99778c08bf2160
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/components/calendar/CalendarScreen.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarScreen.jsx
+> git cat-file -s cdc81179931a5a7da1c128726e99778c08bf2160
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarScreen.jsx
+> git cat-file -s cdc81179931a5a7da1c128726e99778c08bf2160
+> git show --textconv :src/components/calendar/CalendarScreen.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarScreen.jsx
+> git cat-file -s cdc81179931a5a7da1c128726e99778c08bf2160
+> git show --textconv :src/components/calendar/CalendarScreen.jsx
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/calendar/CalendarScreen.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarScreen.jsx
+> git cat-file -s cdc81179931a5a7da1c128726e99778c08bf2160
+> git show --textconv :src/types/types.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/types/types.js
+> git cat-file -s 47b2933f30a3af926bbda6689fb1ef0fca60c22f
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/calendar/CalendarScreen.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarScreen.jsx
+> git cat-file -s cdc81179931a5a7da1c128726e99778c08bf2160
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/ui.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/ui.action.js
+> git cat-file -s 640de9460ceee1bf618a3ebbe635501c04c64b1b
+> git show --textconv :src/components/calendar/CalendarModal.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/calendar/CalendarModal.jsx
+> git cat-file -s b32eadf89787ce7d13e68a1da5f383f43ec7c83c
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/auth.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/auth.js
+> git cat-file -s d7797d2287cfa6bafcde92664b1377b331b1bd23
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/types/types.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/types/types.js
+> git cat-file -s 47b2933f30a3af926bbda6689fb1ef0fca60c22f
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ui/DeleteEventFab.jsx
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/components/ui/DeleteEventFab.jsx
+> git cat-file -s 189d766b9486c118d842cf628994090b0a0d8360
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/reducers/calendarReducer.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/types/types.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/types/types.js
+> git cat-file -s 47b2933f30a3af926bbda6689fb1ef0fca60c22f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/auth.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/auth.js
+> git cat-file -s d7797d2287cfa6bafcde92664b1377b331b1bd23
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/auth.js
+> git cat-file -s d7797d2287cfa6bafcde92664b1377b331b1bd23
+> git show --textconv :src/actions/auth.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/reducers/authReducer.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/authReducer.js
+> git cat-file -s ff8a986e5449c058e2c7d8ca081755a5a4c286b4
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/reducers/calendarReducer.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git show --textconv :src/actions/events.action.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/events.action.js
+> git show --textconv :src/actions/events.action.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/reducers/authReducer.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/authReducer.js
+> git cat-file -s ff8a986e5449c058e2c7d8ca081755a5a4c286b4
+> git show --textconv :src/actions/auth.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/auth.js
+> git cat-file -s d7797d2287cfa6bafcde92664b1377b331b1bd23
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/reducers/calendarReducer.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git show --textconv :src/reducers/calendarReducer.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/actions/auth.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/auth.js
+> git cat-file -s d7797d2287cfa6bafcde92664b1377b331b1bd23
+> git show --textconv :src/reducers/calendarReducer.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git show --textconv :src/actions/auth.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/auth.js
+> git cat-file -s d7797d2287cfa6bafcde92664b1377b331b1bd23
+> git show --textconv :src/reducers/authReducer.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/authReducer.js
+> git cat-file -s ff8a986e5449c058e2c7d8ca081755a5a4c286b4
+> git show --textconv :src/actions/auth.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/auth.js
+> git cat-file -s d7797d2287cfa6bafcde92664b1377b331b1bd23
+> git show --textconv :src/reducers/calendarReducer.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git show --textconv :src/reducers/calendarReducer.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git show --textconv :src/reducers/calendarReducer.js
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git show --textconv :src/reducers/calendarReducer.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git show --textconv :src/reducers/calendarReducer.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git show --textconv :src/reducers/calendarReducer.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git show --textconv :src/reducers/calendarReducer.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/helpers/fetch.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/fetch.js
+> git cat-file -s aedec86351f7bc43e1bbaf843adbf30183debd23
+> git show --textconv :.env
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env
+> git cat-file -s 39cc24b68d5e20a39dea2791d99b897e536e15ce
+> git show --textconv :.env.development
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.development
+> git cat-file -s 7746d119300759da52e0e7c49229a9c1228e1b4c
+> git show --textconv :.env.production
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git show --textconv :.env.development
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.development
+> git cat-file -s 7746d119300759da52e0e7c49229a9c1228e1b4c
+> git show --textconv :.env.production
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git show --textconv :src/reducers/calendarReducer.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/reducers/calendarReducer.js
+> git cat-file -s c5b7ea2c935e8859152eb7b81811d53dcde01995
+> git show --textconv :src/helpers/fetch.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/fetch.js
+> git cat-file -s aedec86351f7bc43e1bbaf843adbf30183debd23
+> git show --textconv :.env.production
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/fetch.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s aedec86351f7bc43e1bbaf843adbf30183debd23
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git show --textconv :src/helpers/fetch.js
+> git show --textconv :.env.production
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:src/actions/eventsCalendar.action.js
+> git ls-tree -l HEAD -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/eventsCalendar.action.js
+> git check-ignore -v -z --stdin
+> git show --textconv :.env.production
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git show --textconv HEAD:src/actions/eventsCalendar.action.js
+> git ls-tree -l HEAD -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/actions/eventsCalendar.action.js
+> git show --textconv :.env.production
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/fetch.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s aedec86351f7bc43e1bbaf843adbf30183debd23
+> git cat-file -s ae925e92667450bdb1a64aaa911acd75132a33f0
+> git show --textconv :src/helpers/fetch.js
+> git show --textconv :.env.production
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags origin main
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+fatal: couldn't find remote ref main
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/fetch.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s aedec86351f7bc43e1bbaf843adbf30183debd23
+> git cat-file -s ae925e92667450bdb1a64aaa911acd75132a33f0
+> git show --textconv :src/helpers/fetch.js
+> git show --textconv :.env.production
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git for-each-ref --format %(refname) %(objectname)
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git status -z -u
+> git rev-list --left-right main...refs/remotes/origin/main
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git rev-list --left-right main...refs/remotes/origin/main
+> git rev-parse main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git rev-parse --symbolic-full-name main@{u}
+> git config --get commit.template
+> git rev-parse main
+> git rev-list --left-right main...refs/remotes/origin/main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/fetch.js
+> git cat-file -s aedec86351f7bc43e1bbaf843adbf30183debd23
+> git show --textconv :src/helpers/fetch.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.env.production
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git for-each-ref --format %(refname) %(objectname)
+> git rev-parse main
+> git status -z -u
+> git rev-parse --symbolic-full-name main@{u}
+> git symbolic-ref --short HEAD
+> git rev-list --left-right main...refs/remotes/origin/main
+> git rev-parse main
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git rev-list --left-right main...refs/remotes/origin/main
+> git rev-parse main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git rev-parse --symbolic-full-name main@{u}
+> git config --get commit.template
+> git rev-list --left-right main...refs/remotes/origin/main
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --format %(refname) %(objectname)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git show --textconv :.env.production
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/fetch.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s aedec86351f7bc43e1bbaf843adbf30183debd23
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git show --textconv :.env.production
+> git show --textconv :src/helpers/fetch.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/fetch.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git cat-file -s aedec86351f7bc43e1bbaf843adbf30183debd23
+> git show --textconv :.env.production
+> git show --textconv :src/helpers/fetch.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/fetch.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git cat-file -s aedec86351f7bc43e1bbaf843adbf30183debd23
+> git show --textconv :src/helpers/fetch.js
+> git show --textconv :.env.production
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/src/helpers/fetch.js
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git cat-file -s aedec86351f7bc43e1bbaf843adbf30183debd23
+> git show --textconv :.env.production
+> git show --textconv :src/helpers/fetch.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git show --textconv :.env.production
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git show --textconv :.env.production
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git show --textconv :.env.production
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git show --textconv :.env.production
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git show --textconv :.env.production
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /Users/andreacervantes/Desktop/Curso-Fernando-Herrera/React/09-calendar-app/.env.production
+> git cat-file -s 51d720f85ed1ca9b797110a0cd1da9818f5fc0d4
+> git show --textconv :.env.production
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

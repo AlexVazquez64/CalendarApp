@@ -10,7 +10,7 @@ import { uiCloseModal } from '../../actions/ui.action';
 import { customStyles } from '../../helpers/center-modal-styles';
 
 import './calendar.css';
-import { eventAddNew, eventClearActiveEvent, eventUpdated } from '../../actions/eventsCalendar.action';
+import { eventClearActiveEvent, eventStartAddNew, eventStartUpdate } from '../../actions/eventsCalendar.action';
 
 
 // Make sure to bind modal to your appElement (http://reactcommunity.org/react-modal/accessibility/)
@@ -21,7 +21,7 @@ const startDate = moment().minutes(0).seconds(0).add(1, 'hours');
 const endDate2 = startDate.clone().add(1, 'hours');
 
 const initEvent = {
-  title: 'Titulo del evento',
+  title: '',
   notes: '',
   start: startDate.toDate(),
   end: endDate2.toDate()
@@ -101,7 +101,7 @@ const CalendarModal = () => {
 
     if ( !activeEvent ) {
       dispatch(
-        eventAddNew({
+        eventStartAddNew({
           ...formValues,
           id: new Date().getTime(),
           user: {
@@ -111,7 +111,7 @@ const CalendarModal = () => {
         })
       );
     } else {
-      dispatch( eventUpdated( formValues ) );
+      dispatch( eventStartUpdate( formValues ) );
       dispatch( eventClearActiveEvent() );
     }
 
@@ -164,7 +164,7 @@ const CalendarModal = () => {
           <label className="form-label">Titulo y notas</label>
           <input
             autoComplete="off"
-            className={ `form-control ${ titleValid ? 'is-valid' : 'is-invalid' } ` }
+            className={ `form-control ${ !titleValid && 'is-invalid' } ` }
             name="title"
             minLength="6"
             onChange={ handleInputChange }
